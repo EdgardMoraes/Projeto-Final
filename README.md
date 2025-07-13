@@ -44,9 +44,9 @@ Utilização de JSF em pelo menos uma das interfaces.
 
 ```bash
 # Clone este repositório
-git clone https://github.com/EdgardMoraes/Maratona-Java.git
+git clone https://github.com/EdgardMoraes/Projeto-Final.git
 
 # Navegue até o diretório do projeto
-cd java-devdojo
+cd Projeto-Final
 
 # Abra na sua IDE preferida
